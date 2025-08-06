@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Oscar Jurado</h1>
-<h3 align="center">Greetings! I am a passionate Fullstack developer with a special focus on JavaScript and Java technologies. I enjoy creating impactful user experiences on the frontend using the latest tools like React and React Native. In the backend world, my choice is Java with Spring Boot, and I have experience working with diverse databases, from Oracle to MongoDB.</h3>
+<h3 align="center">
+Fullstack Developer | Java Spring Boot · React · Flutter · AWS · Docker · EKS
+</h3>
+
+<p align="center">
+I'm a results-driven Fullstack Developer with strong expertise in building scalable and secure applications. On the frontend, I work with React and Flutter to deliver modern and responsive user interfaces. On the backend, I specialize in Java with Spring Boot, designing robust APIs and microservices architectures.
+</p>
+
+<p align="center">
+I also have hands-on experience deploying applications in cloud environments using AWS, managing containers with Docker, and orchestrating services with Kubernetes via Amazon EKS.
+</p>
+
+<p align="center">
+I’m passionate about clean code, automation, and building solutions that make an impact.
+</p>
+
 
 - 🔭 I’m currently working on [mobile apps.](https://github.com/os1990ju?tab=repositories)
 
